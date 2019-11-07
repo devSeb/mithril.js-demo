@@ -1,0 +1,14 @@
+{
+    "presets": [
+      "@babel/preset-env"
+    ],
+    "plugins": [
+      ["transform-react-jsx", {
+          "pragma": "m"
+      }]
+  ]
+    // "plugins": [
+    //   "@babel/plugin-proposal-object-rest-spread",
+    //   "@babel/plugin-syntax-dynamic-import"
+    // ]
+  }
