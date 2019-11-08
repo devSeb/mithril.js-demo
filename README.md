@@ -2,10 +2,6 @@
 pratice with mithril.js   -> mithril.js => 2.0.0-rc.6
 
 
-# mithril.js-demo
-pratice with mithril.js
-
-
 # New Features!
   - Click & Count
   - props & data
